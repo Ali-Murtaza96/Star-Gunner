@@ -6,6 +6,6 @@ Control your ship with the following keys:
 - **Spacebar** – Shoot bullets to destroy enemies
 - **Left Ctrl** – Speed Boost (Hold to activate)
 
-> 💡 Tip: Hold **Left Ctrl** when dodging enemy fire or moving quickly across the screen.
+> 💡 Tip: Hold **Left Ctrl** for moving quickly across the screen.
 
 Enjoy blasting through the stars in **Star Gunner**!
